@@ -1,0 +1,31 @@
+/*
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Content-Security-Policy: default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'
+
+/.well-known/apple-app-site-association
+  Content-Type: application/json
+  Cache-Control: public, max-age=3600
+/meta
+  Cache-Control: no-store
+/privacy/
+  X-Robots-Tag: noindex, follow
+/meta
+  X-Robots-Tag: noindex, follow
+/it/privacy/
+  X-Robots-Tag: noindex, follow
+/it/meta
+  X-Robots-Tag: noindex, follow
+/es/privacy/
+  X-Robots-Tag: noindex, follow
+/es/meta
+  X-Robots-Tag: noindex, follow
+/fr/privacy/
+  X-Robots-Tag: noindex, follow
+/fr/meta
+  X-Robots-Tag: noindex, follow
+/pt/privacy/
+  X-Robots-Tag: noindex, follow
+/pt/meta
+  X-Robots-Tag: noindex, follow

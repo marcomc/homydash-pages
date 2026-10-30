@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homydash.marcomc.com/sitemap.xml
